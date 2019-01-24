@@ -3,7 +3,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/ItinerisLtd/trellis-sage-9-compiler.svg)](https://github.com/ItinerisLtd/trellis-sage-9-compiler/tags)
 [![license](https://img.shields.io/github/license/ItinerisLtd/trellis-sage-9-compiler.svg)](https://github.com/ItinerisLtd/trellis-sage-9-compiler/blob/master/LICENSE)
 
-**This is not production-ready yet! See: [roots/trellis](https://github.com/roots/trellis) because of [roots/trellis#1030](https://github.com/roots/trellis/pull/1030)**
+**This is not production-ready yet! See: [roots/trellis#1030](https://github.com/roots/trellis/pull/1030)**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -13,6 +13,8 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Role Variables](#role-variables)
+  - [`name`](#name)
+  - [`cleanup`](#cleanup)
 - [Usage](#usage)
 - [FAQs](#faqs)
   - [It looks awesome. Where can I find some more goodies like this?](#it-looks-awesome-where-can-i-find-some-more-goodies-like-this)
@@ -26,7 +28,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-**This is not production-ready yet! See: [roots/trellis](https://github.com/roots/trellis) because of [roots/trellis#1030](https://github.com/roots/trellis/pull/1030)**
+**This is not production-ready yet! See: [roots/trellis#1030](https://github.com/roots/trellis/pull/1030)**
 
 ## TODOs (Help wanted)
 
