@@ -1,5 +1,6 @@
 # trellis-sage-9-compiler
 
+[![Build Status](https://travis-ci.com/ItinerisLtd/trellis-sage-9-compiler.svg?branch=master)](https://travis-ci.com/ItinerisLtd/trellis-sage-9-compiler)
 [![GitHub tag](https://img.shields.io/github/tag/ItinerisLtd/trellis-sage-9-compiler.svg)](https://github.com/ItinerisLtd/trellis-sage-9-compiler/tags)
 [![license](https://img.shields.io/github/license/ItinerisLtd/trellis-sage-9-compiler.svg)](https://github.com/ItinerisLtd/trellis-sage-9-compiler/blob/master/LICENSE)
 
