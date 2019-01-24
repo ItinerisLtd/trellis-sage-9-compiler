@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Itineris Limited
+  description: Complie Sage 9 themes during Trellis deploy
+  company: Itineris Limited
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+  - name: Ubuntu
+    versions:
+      - xenial
+      - bionic
+  galaxy_tags:
+    - trellis
+    - wordpress
+    - sage
+    - deployment
+dependencies: []
