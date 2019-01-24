@@ -51,6 +51,14 @@ Add this role to `requirements.yml`:
   version: master # This is not production-ready yet!
 ```
 
+Hook this role to `deploy_build_before`:
+```yaml
+# group_vars/all/deploy-hooks.yml
+# Learn more on https://roots.io/trellis/docs/deploys/#hooks
+deploy_build_before:
+  - "{{ playbook_dir }}/vendor/roles/trellis-sage-9-compiler/tasks/main.yml"
+```
+
 Run the command:
 ```sh-session
 ➜ ansible-galaxy install -r requirements.yml --force
